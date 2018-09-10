@@ -1,0 +1,32 @@
+.fundo{
+    background-color: aqua;      
+   font-weight: bold;
+   font-style: italic          
+}
+
+input[type="text"]:focus {
+    background-color: white;
+}
+
+#uf{
+    width: 30px;
+    font-style: italic;
+    size: 2px;
+    text-transform: uppercase;
+    text-align: left;    
+}   
+
+#ccc{
+    font-style: normal;
+    width: 120px;
+    text-align:left;
+}            
+textarea:focus {
+    background-color: white;
+
+}
+
+input[type="text"]{
+    width: 300px;
+    
+}
